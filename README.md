@@ -40,6 +40,24 @@ Contains: orders, sales, profit, discounts, region, customer segment , product c
 
 
 ---
+## Business Questions (KPIs)
+
+What are the total sales and total profit?
+
+Which categories and subcategories generate the most revenue and which generate the most losses?
+
+How do sales perform by region and state?
+
+Who are the top customers (Top N by sales/profit)?
+
+What is the monthly/annual trend of sales and profit?
+
+What impact do discounts have on profit?
+
+
+
+
+
 
 ## 📌 Final Deliverable
 
