@@ -94,7 +94,4 @@ Optionally: View Dashboard on Power BI Public
 
 For questions or collaboration:
 
-GitHub: AnaCenteno-DA
-
-LinkedIn: Your LinkedIn Profile
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-centeno-baltazar/)  
