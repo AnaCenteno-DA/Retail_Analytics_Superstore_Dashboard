@@ -74,11 +74,11 @@ The dataset includes:
 
 ## 📸 Dashboard Preview  
 
-# Design of Dashboard 1  - General Overview
+### Design of Dashboard 1  - General Overview
 
-[Image_Dashboard1_SuperStore](https://github.com/user-attachments/assets/f31068eb-bdf4-4691-88a9-86ecb0fb9a9a)
+![Image_Dashboard1_SuperStore](https://github.com/user-attachments/assets/607fa4c6-6a01-4dab-a7ce-4b4fff58ee95)
 
-#  Design of Dashboard 2  - Client Analysis
+###  Design of Dashboard 2  - Client Analysis
 
 ![Image_Dashboard2_SuperStore](https://github.com/user-attachments/assets/293013d8-fd1b-41a8-9328-0affd669d23c)
 
