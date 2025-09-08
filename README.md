@@ -83,4 +83,18 @@ The dataset includes:
 ![Image_Dashboard2_SuperStore](https://github.com/user-attachments/assets/293013d8-fd1b-41a8-9328-0affd669d23c)
 
 
+# Final Deliverable
+
+Power BI Interactive Dashboard (.pbix file included in repository).
+
+Optionally: View Dashboard on Power BI Public
+
+
+# 📬 Contact
+
+For questions or collaboration:
+
+GitHub: AnaCenteno-DA
+
+LinkedIn: Your LinkedIn Profile
 
