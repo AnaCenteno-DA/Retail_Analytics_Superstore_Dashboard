@@ -73,9 +73,10 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview  
-*(Insert screenshots or GIFs of your dashboard here)*  
 
-```markdown
-![Dashboard Overview](images/dashboard_overview.png)
+[Image_Dashboard1_SuperStore](https://github.com/user-attachments/assets/f31068eb-bdf4-4691-88a9-86ecb0fb9a9a)
+
+
+
 ![Customer Insights](images/dashboard_customers.png)
 
