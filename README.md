@@ -87,11 +87,11 @@ The dataset includes:
 
 Power BI Interactive Dashboard (.pbix file included in repository).
 
-![Dashboard Preview]<img width="1822" height="1007" alt="image" src="https://github.com/user-attachments/assets/18565e01-9adb-4148-9025-aea5904a26c8" />
+![Dashboard Preview](<img width="1822" height="1007" alt="image" src="https://github.com/user-attachments/assets/18565e01-9adb-4148-9025-aea5904a26c8" />)
 
 <br>
 
-![Preview Dashboard Interactive]<img width="3286" height="1081" alt="image" src="https://github.com/user-attachments/assets/7673997f-fcbe-4785-a761-1b286042c4f8" />
+![Preview Dashboard Interactive](<img width="3286" height="1081" alt="image" src="https://github.com/user-attachments/assets/7673997f-fcbe-4785-a761-1b286042c4f8" />)
 
 
 
