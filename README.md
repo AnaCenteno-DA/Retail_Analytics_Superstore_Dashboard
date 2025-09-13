@@ -17,8 +17,7 @@ The results are presented in a **fully interactive Power BI dashboard**, designe
 
 ## 🛠️ Tools & Technologies Used  
 - **Dataset:** CSV format – Superstore Sample Dataset (Kaggle).  
-- **Python (Pandas, Matplotlib, Seaborn):** Data cleaning and exploration.  
-- **Power BI:** Data modeling, KPI creation, analysis, and dashboard design.  
+- **Power BI:** EDA, Data modeling, KPI creation, analysis, and dashboard design.  
 
 ---
 
@@ -74,24 +73,25 @@ The dataset includes:
 
 ## 📸 Dashboard Preview  
 
-### Design of Dashboard 1  - General Overview
+### Design of Dashboard 1  - Sales Overview
 
-![Image_Dashboard1_SuperStore](https://github.com/user-attachments/assets/607fa4c6-6a01-4dab-a7ce-4b4fff58ee95)
+### Design of Dashboard 2  - Product Analysis
 
-###  Design of Dashboard 2  - Client Analysis
 
-![Image_Dashboard2_SuperStore](https://github.com/user-attachments/assets/293013d8-fd1b-41a8-9328-0affd669d23c)
+### Design of Dashboard 2  - Client Analysis
 
+
+### Design of Dashboard 2  - Regional Graph
 
 # Final Deliverable
 
 Power BI Interactive Dashboard (.pbix file included in repository).
 
-![Dashboard Preview](<img width="1822" height="1007" alt="image" src="https://github.com/user-attachments/assets/18565e01-9adb-4148-9025-aea5904a26c8" />)
 
-<br>
 
-![Preview Dashboard Interactive](<img width="3286" height="1081" alt="image" src="https://github.com/user-attachments/assets/7673997f-fcbe-4785-a761-1b286042c4f8" />)
+
+
+
 
 
 
