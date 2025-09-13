@@ -74,14 +74,23 @@ The dataset includes:
 ## 📸 Dashboard Preview  
 
 ### Design of Dashboard 1  - Sales Overview
+<img width="1880" height="955" alt="image" src="https://github.com/user-attachments/assets/bd53cc15-81f7-41b8-bcdb-62ea78b13ad6" />
+
+
 
 ### Design of Dashboard 2  - Product Analysis
+<img width="1884" height="958" alt="image" src="https://github.com/user-attachments/assets/f093c03a-bfdd-4973-9c9e-0496552eac2d" />
+
 
 
 ### Design of Dashboard 2  - Client Analysis
+<img width="1881" height="958" alt="image" src="https://github.com/user-attachments/assets/13b6da72-da0f-4448-b79a-f79c90c1cdc4" />
+
 
 
 ### Design of Dashboard 2  - Regional Graph
+<img width="1879" height="959" alt="image" src="https://github.com/user-attachments/assets/d930395d-eb5b-4102-84e1-ad309562b5db" />
+
 
 # Final Deliverable
 
