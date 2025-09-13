@@ -88,6 +88,7 @@ The dataset includes:
 Power BI Interactive Dashboard (.pbix file included in repository).
 
 Optionally: View Dashboard on Power BI Public
+![Link](https://app.powerbi.com/groups/me/reports/5de9d023-41d1-4d28-8b93-1108158112f3/37ae09cd41a3fc1be012?experience=power-bi)
 
 
 # 📬 Contact
